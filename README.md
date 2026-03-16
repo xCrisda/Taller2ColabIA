@@ -55,7 +55,7 @@ Además, se implementan 3 ejemplos interactivos en Python:
 
 ## Tecnologías utilizadas
 
-- **Python 3**
+- **Python**
 - **Google Colab**
 - **GitHub**
 
